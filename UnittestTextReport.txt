@@ -1,0 +1,21 @@
+test_add (test_func.TestFunc) ... skipped '我想临时跳过这个测试用例'
+test_minus (test_func.TestFunc) ... skipped '跳过这个测试用例'
+test_divide (test_func.TestFunc) ... ok
+test_multi (test_func.TestFunc) ... ok
+test_add (test_func.TestFunc) ... skipped '我想临时跳过这个测试用例'
+test_divide (test_func.TestFunc) ... ok
+test_minus (test_func.TestFunc) ... skipped '跳过这个测试用例'
+test_multi (test_func.TestFunc) ... ok
+test_add (test_func.TestFunc) ... skipped '我想临时跳过这个测试用例'
+test_divide (test_func.TestFunc) ... ok
+test_minus (test_func.TestFunc) ... skipped '跳过这个测试用例'
+test_multi (test_func.TestFunc) ... ok
+test_add (test_func.TestFunc) ... skipped '我想临时跳过这个测试用例'
+test_divide (test_func.TestFunc) ... ok
+test_minus (test_func.TestFunc) ... skipped '跳过这个测试用例'
+test_multi (test_func.TestFunc) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.001s
+
+OK (skipped=8)
