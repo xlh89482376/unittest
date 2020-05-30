@@ -5,6 +5,8 @@ from HTMLTestReportCN import HTMLTestRunner
 if __name__ == '__main__':
     suite = unittest.TestSuite()
 
+    # 测试第二次提交
+
     tests = [TestFunc("test_add"), TestFunc("test_minus"), TestFunc("test_divide")] # 添加测试用例列表
     suite.addTests(tests) # 将测试用例列表添加到测试组中
     suite.addTest(TestFunc("test_multi")) # 直接用addTest方法添加单个TestCase
